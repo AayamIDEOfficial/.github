@@ -1,6 +1,5 @@
 
-![AndroidIDE](https://github.com/AndroidIDEOfficial/.github/raw/main/profile/header_dark.png#gh-dark-mode-only)
-![AndroidIDE](https://github.com/AndroidIDEOfficial/.github/raw/main/profile/header_light.png#gh-light-mode-only)
+![AndroidIDE](https://github.com/AayamIDEOfficial/.github/raw/main/profile/header_dark.png#gh-dark-mode-only)
 
 AndroidIDE
 ==========
